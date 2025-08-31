@@ -4,17 +4,17 @@ This repository contains a collection of C/C++ programs implementing fundamental
 
 ## Folder Structure
 
-- **Array/**
+- **Array**
   - Array-based algorithms and problems (e.g., pair finding, wave array, special problems)
-- **Basic/**
+- **Basic**
   - Basic programming exercises (e.g., string manipulation, array sum, matrix operations)
-- **Linked Lists/**
+- **Linked Lists**
   - Implementations and problems on singly, doubly, and merged linked lists
-- **Queue/**
+- **Queue**
   - Queue implementations using arrays and linked lists
-- **Searching & Sorting/**
+- **Searching & Sorting**
   - Classic searching and sorting algorithms (e.g., binary search, bubble sort, insertion sort)
-- **Stack/**
+- **Stack**
   - Stack implementations and stack-based problems (e.g., infix to postfix, valid parentheses)
-- **Tree/**
+- **Tree**
   - Binary tree implementation and related algorithms
